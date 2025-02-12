@@ -25,3 +25,5 @@ For getting specificly ndcg
 ```cygwin
 trec_eval -m ndcg <qrel_file> <run_file>
 ```
+
+### Download [trec_eval](https://github.com/usnistgov/trec_eval) and install it using "make".
