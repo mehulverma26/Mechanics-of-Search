@@ -27,3 +27,5 @@ trec_eval -m ndcg <qrel_file> <run_file>
 ```
 
 ### Download [trec_eval](https://github.com/usnistgov/trec_eval) and install it using "make".
+
+P.S. You can install wsl for smoother use
