@@ -17,14 +17,10 @@ pip install -r requirements.txt
 For getting most of the evaluation done
 
 ```cygwin
-trec_eval <qrel_file> <run_file>
+trec_eval -m all_trec <qrel_file> <run_file> 
 ```
 
-For getting specificly ndcg
-
-```cygwin
-trec_eval -m ndcg <qrel_file> <run_file>
-```
+You can add ``` > <file name> ``` to specify the name of the output file.
 
 ### Download [trec_eval](https://github.com/usnistgov/trec_eval) and install it using "make".
 
