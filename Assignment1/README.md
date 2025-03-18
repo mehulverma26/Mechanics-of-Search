@@ -24,4 +24,6 @@ You can add ``` > <file name> ``` to specify the name of the output file.
 
 ### Download [trec_eval](https://github.com/usnistgov/trec_eval) and install it using "make".
 
+The '*main.ipynb*' contains all the code for the <b>Respective Assignments</b> in their <b>Respective folders</b>.
+
 P.S. You can install wsl for smoother use
